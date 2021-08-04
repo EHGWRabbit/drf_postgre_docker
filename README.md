@@ -1,11 +1,10 @@
-# drf_postgre_docker
-##open terminal
+clone https://github.com/EHGWRabbit/drf_postgre_docker.git
 
-##mkdir blog_api
+## cd drf_postgre_docker-master
 
-##pip install pipenv 
+##open tepminal 
 
-## cd blog_api
+##pip install pipenv
 
 ##pipenv shell
 
